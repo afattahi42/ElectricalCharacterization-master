@@ -1,0 +1,13 @@
+t,f,x,y,r,theta,xK,tc,therm,dc
+1680137123.1278017, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2023133, -0.007386818, 0.1958801, 0.3888972, 0, 0, 0
+1680137125.6969078, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2052379, 0.005768142, 0.1967652, 358.7519, 0, 0, 0
+1680137128.2428076, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2045067, 0.008326052, 0.1968306, 2.05405, 0, 0, 0
+1680137130.803103, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2056035, 0.01088396, 0.1981504, 0.4018743, 0, 0, 0
+1680137133.3510833, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2059691, 0.00101774, 0.1986609, 358.1425, 0, 0, 0
+1680137135.9037993, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2052379, 0.002844817, 0.199023, 358.7563, 0, 0, 0
+1680137138.4479127, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2001198, -0.004098078, 0.1987309, 359.8727, 0, 0, 0
+1680137140.9940553, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2048723, 0.005768142, 0.1995067, 359.043, 0, 0, 0
+1680137143.5334911, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2048723, 0.007229804, 0.2037906, 358.4483, 0, 0, 0
+1680137146.065952, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2008509, 0.002479402, 0.2021045, 359.4699, 0, 0, 0
+1680137148.6361732, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2041411, -0.00555974, 0.2023191, 358.4483, 0, 0, 0
+1680137151.1918247, <_io.TextIOWrapper name='Data/ResistivityVFrequency/ResistivityVFrequency1680137120.txt' mode='a' encoding='cp1252'>, 0.2026788, -0.003367247, 0.2026916, 1.621401, 0, 0, 0
